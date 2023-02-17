@@ -1,2 +1,2 @@
-# intedai.github.io
+# amazinglyUltra.github.io
 Personal static webpage
